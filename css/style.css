@@ -1,0 +1,13 @@
+body{
+	background: url("../images/google.jpg") no-repeat fixed;
+	-webkit-background-size:cover;
+	-o-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover;
+}
+.colores{
+	color:#FFFFFF;
+}
+.colormenu{
+	color:#FFFFFF;
+	}

@@ -1,0 +1,25 @@
+body{
+	background: url("../images/elias.jpg") no-repeat fixed;
+	-webkit-background-size:cover;
+	-o-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover;
+}
+.colormenu{
+	color:#ffa41b; 
+	
+
+}
+.colores{
+	color: #FFFFFF; 
+	left: 35%;
+}
+.tamaño{
+	height: 45px; 
+}
+.margenes{
+	 color:#8ac6d1;
+}
+.textura{
+	color:#FFFFFF;
+}
